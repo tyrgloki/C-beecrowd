@@ -1,1 +1,1 @@
-Excercises from <a>www.beecrowd.com.br</a>
+Excercises from [Beecrowd](www.beecrowd.com.br)
