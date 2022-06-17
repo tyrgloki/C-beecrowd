@@ -1,1 +1,1 @@
-Excercises from [Beecrowd](www.beecrowd.com.br)
+Excercises from [Beecrowd](https://www.beecrowd.com.br)
